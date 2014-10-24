@@ -3,3 +3,7 @@ The mobile and social is the current and also the future, just challenge yoursel
 
 The first app just do as simple as you can, even not have to write a line of code.
 Let's see how fun it is, and how fast leanring you are. 
+
+For foucus on the task itself, the first app just need be able to run on my phone, 
+if need code writing, use Eclipse on windows.
+
