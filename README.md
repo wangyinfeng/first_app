@@ -13,4 +13,5 @@ For foucus on the task itself, the first app just need be able to run on my phon
 if need code writing, use Eclipse on windows.
 
 In case you are too lazy or forget about this task, I'll put daily trace here.
-* 24 Oct - prepare the necessary tool and sdk for develop the app, install them
+* 24 Oct - prepare the necessary tool and sdk for develop the app, install them - DONE
+* 25-26 Oct - Follow the wizard to build an empty app, load on the phone
