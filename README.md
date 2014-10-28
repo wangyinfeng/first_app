@@ -2,7 +2,7 @@ As a developer, if you want to continue this job, you need to train yourself con
 The mobile and social is the current and also the future, just challenge yourself.
 
 What's the app like?
-1. Simple.apk, can install/uninstall on my phone.
+1. Simple.apk, can install/uninstall on my phone. - DONE
 2. A window, a tab, when push the tab, show the "hello world" whereever.
 3. And a tab, to close/exit the app.
 
@@ -16,4 +16,7 @@ In case you are too lazy or forget about this task, I'll put daily trace here.
 * 24 Oct - prepare the necessary tool and sdk for develop the app, install them - DONE - Not really done. - Done at 28 Oct.
 * 25-26 Oct - Follow the wizard to build an empty app, load on the phonea - Not done. Have issue about downloading sdk from google - Done at 28 Oct
 * 28 Oct - Should catch up. Should find some way to have reliable connection to google; update jdk, run the app from emulator and phone success.
+* 29 Oct - know the architecture of the project, a button with name.
+* 30 Oct - the button to exit.
+* 31 Oct - the button to show "hello world"
 
