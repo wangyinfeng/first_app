@@ -13,6 +13,7 @@ For foucus on the task itself, the first app just need be able to run on my phon
 if need code writing, use Eclipse on windows.
 
 In case you are too lazy or forget about this task, I'll put daily trace here.
-* 24 Oct - prepare the necessary tool and sdk for develop the app, install them - DONE - Not really done.
-* 25-26 Oct - Follow the wizard to build an empty app, load on the phonea - Not done. Have issue about downloading sdk from google
-* 28 Oct - Should catch up
+* 24 Oct - prepare the necessary tool and sdk for develop the app, install them - DONE - Not really done. - Done at 28 Oct.
+* 25-26 Oct - Follow the wizard to build an empty app, load on the phonea - Not done. Have issue about downloading sdk from google - Done at 28 Oct
+* 28 Oct - Should catch up. Should find some way to have reliable connection to google; update jdk, run the app from emulator and phone success.
+
