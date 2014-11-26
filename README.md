@@ -1,7 +1,8 @@
+#Purpose
 As a developer, if you want to continue this job, you need to train yourself continuously.
 The mobile and social is the current and also the future, just challenge yourself.
 
-What's the app like?
+#What's the app like?
 1. Simple.apk, can install/uninstall on my phone. - DONE
 2. A window, a tab, when push the tab, show the "hello world" whereever. - DONE
 3. And a tab, to close/exit the app. - DONE
@@ -20,6 +21,6 @@ In case you are too lazy or forget about this task, I'll put daily trace here.
 * 30 Oct - the button to exit. - DONE
 * 31 Oct - the button to show "hello world" - DONE at 30 Oct
 
-Conclusion:
+#Conclusion:
 Not just coding, also about design.
 
